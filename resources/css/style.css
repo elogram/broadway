@@ -16,9 +16,10 @@ h1 {
 a {
   color: white;
   font-size: 18px;
+  font-weight: bold;
 }
 
-#process {
+h2 {
   font-size: 32px;
   font-weight: bold;
 }
@@ -36,7 +37,7 @@ p {
   background-image: url("../images/the-flatiron-building.png");
   font-size: 23px;
   font-weight: bold;
-
+  color: white;
 }
 
 .footer {
