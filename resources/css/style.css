@@ -13,7 +13,40 @@ h1 {
   font-weight: bold;
 }
 
-p a {
+a {
   color: white;
   font-size: 18px;
+}
+
+#process {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+p {
+  font-size: 14px;
+}
+
+.tag{
+  background-image: url("../images/the-flatiron-building.png");
+  font-size: 23px;
+  font-weight: bold;
+
+}
+
+.footer {
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  color: white;
+  text-align: left;
+}
+
+.footer a{
+  font-size: 11px;
 }
